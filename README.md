@@ -1,2 +1,2 @@
-# Python_Tutorial
-Python Tutorial for Beginners
+# Everythin about Python
+Learn Python
